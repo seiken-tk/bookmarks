@@ -1,6 +1,8 @@
 # bookmarks
 Seiken's bookmarks
 
+- [wapon](https://wapon.co.jp)
+- [seiken.tk](https://seiken.tk)
 - [ゲームライン](https://gameline.jp)
 - [figg](https://figg.jp)
 - [ROKURO](https://rokuro.app)
