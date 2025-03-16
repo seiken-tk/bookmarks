@@ -8,3 +8,5 @@ Seiken's bookmarks
 - [ROKURO](https://rokuro.app)
 - [Zeeviz](https://zeeviz.com)
 - [LimitBoard](https://limitboard.com)
+- [A note](https://anote.info)
+- [MUW](https://muw.jp)
