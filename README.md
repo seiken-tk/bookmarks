@@ -4,6 +4,8 @@ Seiken's bookmarks
 - [wapon](https://wapon.co.jp)
 - [seiken.tk](https://seiken.tk)
 - [VANQUISH NETWORK](https://vanquish.network/)
+- [ジョブストリーム](https://jobstream.jp)
+- [MedicalX病児保育](https://medicalx.jp/childcare)
 - [ゲームライン](https://gameline.jp)
 - [figg](https://figg.jp)
 - [ROKURO](https://rokuro.app)
